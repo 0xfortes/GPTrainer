@@ -27,7 +27,7 @@ To run this project locally:
 
 1. Clone the repository
 2. Install dependencies with `npm install`
-3. Set up your OpenAI API key in a `.env.local` file
+3. Set up your OpenAI API key in a `.env` file
 4. Run the development server with `npm run dev`
 
 
